@@ -1,0 +1,8 @@
+_pycache_/
+*.pyc
+venv/
+.env
+dataset/raw/
+*.tif
+*.img
+.ipynb_checkpoints/
