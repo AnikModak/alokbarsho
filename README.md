@@ -23,7 +23,7 @@ If none of this makes sense yet, that's fine — you don't need to understand th
 
 | Person | Role | What that means day-to-day |
 |---|---|---|
-| Anik | Architect  | Designs the pipeline, writes the hardest matching code |
+| Anik | Architect  | Builds the website people click around during judging |
 | _(fill in)_ | Core algorithm | Helps build the matching logic |
 | _(fill in)_ | Data pipeline | Downloads and prepares the Moon images |
 | _(fill in)_ | Evaluation | Builds the scoring/metrics code, makes charts |
